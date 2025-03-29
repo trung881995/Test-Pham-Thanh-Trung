@@ -1,8 +1,11 @@
 ﻿<Properties StartupConfiguration="{CED75E76-3F05-DE5B-9413-6359B577F821}|">
-  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/TopDownMovement.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/Player.cs">
     <Files>
       <File FileName="Assets/Scripts/TankTower.cs" Line="8" Column="1" />
       <File FileName="Assets/Scripts/TopDownMovement.cs" Line="26" Column="16" />
+      <File FileName="Assets/Scripts/BasicSpawner.cs" Line="47" Column="6" />
+      <File FileName="Assets/Scripts/NetworkInputData.cs" Line="7" Column="2" />
+      <File FileName="Assets/Scripts/Player.cs" Line="6" Column="2" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
@@ -10,7 +13,7 @@
           <Node name="Test-Pham-Thanh-Trung" expanded="True">
             <Node name="Assets" expanded="True">
               <Node name="Scripts" expanded="True">
-                <Node name="TankTower.cs" selected="True" />
+                <Node name="Player.cs" selected="True" />
               </Node>
             </Node>
           </Node>
@@ -20,7 +23,7 @@
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
-  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="cfd205b3-76d9-4a3c-866d-c1d7b4b66609" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="5e49085a-2cd0-4ae7-a2e1-ae9c016ec06c" />
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
     <BreakpointStore />
   </MonoDevelop.Ide.DebuggingService.Breakpoints>

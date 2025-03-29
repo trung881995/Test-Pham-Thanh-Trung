@@ -38,7 +38,7 @@ public class TopDownMovement : MonoBehaviour
         moveDirection = new Vector3(moveX, 0, moveZ).normalized * speed;
 
         // Di chuyển nhân vật bằng Rigidbody
-        rb.velocity = new Vector3(moveDirection.x, rb.velocity.y, moveDirection.z);
+        rb.linearVelocity = new Vector3(moveDirection.x, rb.linearVelocity.y, moveDirection.z);
     }
 
     void Rotate()
